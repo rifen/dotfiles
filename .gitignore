@@ -1,0 +1,9 @@
+# Vim swap file.
+.swp
+vim/.vim
+/.vim/plugged/
+~/vim/.vim/plugged
+/.zsh/zsh-autosuggestions/
+.netrwhist
+*.DS_Store
+plugged/**
